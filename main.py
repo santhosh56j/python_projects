@@ -7,7 +7,7 @@ def number_guessing_game():
 
     
     print("      WELCOME TO THE NUMBER GUESSING GAME      ")
-   
+    print("=" * 40)
     print(f"I am thinking of a number between 1 and 100.")
     print("Can you guess what it is?\n")
 
